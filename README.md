@@ -7,7 +7,6 @@
 
 
 ### 📹 Video de youtube 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s" frameborder="0" allowfullscreen></iframe>
 
 <a href='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' target='_blank'>
   <img width='30%' src='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' alt='unknown' />
