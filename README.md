@@ -7,7 +7,7 @@
 
 
 ### 📹 Video de youtube 
-[![Texto alternativo](https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s)](https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s)
-<a href='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' target='_blank'>
-  <img width='30%' src='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' alt='unknown' />
+
+<a href='https://youtu.be/mFlhxnmel8M' target='_blank'>
+  <img width='30%' src='https://youtu.be/mFlhxnmel8M/mqdefault.jpg' alt='unknown' />
 </a>
