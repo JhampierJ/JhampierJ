@@ -6,7 +6,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@jhampier_?sub_confirmation=1)
 
 
-### 🎞️ Tutoriales Videos
+### 🎞️ Tutoriales 
 
 <a href='https://youtu.be/mFlhxnmel8M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/mFlhxnmel8M/mqdefault.jpg' alt='unknown' />
