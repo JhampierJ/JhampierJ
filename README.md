@@ -7,3 +7,13 @@
 
 
 ### 📹 Video de youtube (https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)
+
+<a href='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' target='_blank'>
+  <img width='30%' src='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' alt='unknown' />
+</a>
+<a href='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' target='_blank'>
+  <img width='30%' src='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' alt='Sitios para practicar programación' />
+</a>
+<a href='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' target='_blank'>
+  <img width='30%' src='https://www.youtube.com/watch?v=mFlhxnmel8M&t=68s' alt='Certificado de Inglés para Programadores ¡gratuito!' />
+</a>
