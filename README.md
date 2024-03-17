@@ -9,5 +9,5 @@
 ### 📹 Video de youtube 
 
 <a href='https://youtu.be/mFlhxnmel8M' target='_blank'>
-  <img width='30%' src='https://youtu.be/mFlhxnmel8M/mqdefault.jpg' alt='unknown' />
+  <img width='30%' src='https://img.youtube.com/vi/mFlhxnmel8M/mqdefault.jpg' alt='unknown' />
 </a>
